@@ -1,0 +1,7 @@
+Training_set,Testing_set,corr,R^2,MSE
+White,White,0.846,0.541,0.003
+Cauliflower,Cauliflower,0.849,0.545,0.003
+White,Cauliflower,0.868,0.59,0.003
+Cauliflower,White,0.861,0.582,0.003
+All_except_White,White,0.861,0.641,0.002
+All_except_Cauliflower,Cauliflower,0.864,0.645,0.002

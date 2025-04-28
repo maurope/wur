@@ -1,0 +1,7 @@
+Training_set,Testing_set,corr,R^2,MSE
+White,White,0.801,0.465,0.004
+Kohlrabi,Kohlrabi,0.781,0.45,0.004
+White,Kohlrabi,0.803,0.467,0.004
+Kohlrabi,White,0.813,0.483,0.004
+All_except_White,White,0.825,0.485,0.004
+All_except_Kohlrabi,Kohlrabi,0.815,0.475,0.004

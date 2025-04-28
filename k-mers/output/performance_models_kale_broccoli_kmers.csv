@@ -1,0 +1,7 @@
+Training_set,Testing_set,corr,R^2,MSE
+Kale,Kale,0.813,0.458,0.005
+Broccoli,Broccoli,0.822,0.481,0.004
+Kale,Broccoli,0.845,0.508,0.004
+Broccoli,Kale,0.831,0.506,0.004
+All_except_Kale,Kale,0.845,0.526,0.004
+All_except_Broccoli,Broccoli,0.836,0.529,0.004

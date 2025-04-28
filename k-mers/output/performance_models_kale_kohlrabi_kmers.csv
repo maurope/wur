@@ -1,0 +1,7 @@
+Training_set,Testing_set,corr,R^2,MSE
+Kale,Kale,0.828,0.47,0.004
+Kohlrabi,Kohlrabi,0.819,0.468,0.004
+Kale,Kohlrabi,0.848,0.511,0.004
+Kohlrabi,Kale,0.84,0.508,0.004
+All_except_Kale,Kale,0.856,0.547,0.003
+All_except_Kohlrabi,Kohlrabi,0.856,0.58,0.003

@@ -1,0 +1,7 @@
+Training_set,Testing_set,corr,R^2,MSE
+Broccoli,Broccoli,0.852,0.55,0.004
+Cauliflower,Cauliflower,0.855,0.565,0.003
+Broccoli,Cauliflower,0.878,0.612,0.003
+Cauliflower,Broccoli,0.878,0.605,0.003
+All_except_Broccoli,Broccoli,0.875,0.627,0.003
+All_except_Cauliflower,Cauliflower,0.876,0.641,0.003

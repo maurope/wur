@@ -1,0 +1,7 @@
+Training_set,Testing_set,corr,R^2,MSE
+Kale,Kale,0.886,0.599,0.003
+White,White,0.891,0.613,0.003
+Kale,White,0.899,0.642,0.003
+White,Kale,0.901,0.649,0.003
+All_except_Kale,Kale,0.894,0.651,0.003
+All_except_White,White,0.889,0.668,0.002

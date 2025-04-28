@@ -1,0 +1,7 @@
+Training_set,Testing_set,corr,R^2,MSE
+White,White,0.864,0.567,0.003
+Broccoli,Broccoli,0.864,0.558,0.003
+White,Broccoli,0.879,0.602,0.003
+Broccoli,White,0.876,0.61,0.003
+All_except_White,White,0.878,0.647,0.002
+All_except_Broccoli,Broccoli,0.887,0.645,0.003

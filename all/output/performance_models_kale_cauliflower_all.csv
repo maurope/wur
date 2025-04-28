@@ -1,0 +1,7 @@
+Training_set,Testing_set,corr,R^2,MSE
+Kale,Kale,0.87,0.577,0.003
+Cauliflower,Cauliflower,0.874,0.593,0.003
+Kale,Cauliflower,0.885,0.616,0.003
+Cauliflower,Kale,0.887,0.633,0.003
+All_except_Kale,Kale,0.88,0.63,0.003
+All_except_Cauliflower,Cauliflower,0.866,0.638,0.003

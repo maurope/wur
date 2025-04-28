@@ -1,0 +1,7 @@
+Training_set,Testing_set,corr,R^2,MSE
+Cauliflower,Cauliflower,0.827,0.479,0.005
+Kohlrabi,Kohlrabi,0.803,0.451,0.005
+Cauliflower,Kohlrabi,0.83,0.495,0.004
+Kohlrabi,Cauliflower,0.845,0.498,0.004
+All_except_Cauliflower,Cauliflower,0.847,0.531,0.004
+All_except_Kohlrabi,Kohlrabi,0.837,0.549,0.004
