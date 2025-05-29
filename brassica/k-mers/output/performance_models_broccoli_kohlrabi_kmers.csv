@@ -1,7 +1,7 @@
 Training_set,Testing_set,corr,R^2,MSE
-Broccoli,Broccoli,0.82,0.482,0.005
-Kohlrabi,Kohlrabi,0.804,0.462,0.005
-Broccoli,Kohlrabi,0.826,0.514,0.005
-Kohlrabi,Broccoli,0.832,0.498,0.005
-All_except_Broccoli,Broccoli,0.852,0.511,0.005
-All_except_Kohlrabi,Kohlrabi,0.836,0.524,0.004
+Broccoli,Broccoli,0.785,0.516,0.006
+Kohlrabi,Kohlrabi,0.755,0.478,0.006
+Broccoli,Kohlrabi,0.797,0.54,0.005
+Kohlrabi,Broccoli,0.8,0.54,0.005
+All_except_Broccoli,Broccoli,0.829,0.565,0.005
+All_except_Kohlrabi,Kohlrabi,0.828,0.579,0.005
